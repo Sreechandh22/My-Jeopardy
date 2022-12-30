@@ -49,7 +49,7 @@ public class JeopardyGame
    while(choice!=0)
    {
 	   System.out.println();
-   System.out.println("Plase enter your choice of question:");
+   System.out.println("Please enter your choice of question:");
    choice = scan.nextInt();
    scan.nextLine();
    System.out.println();
